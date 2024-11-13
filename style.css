@@ -1,0 +1,37 @@
+*{
+    background-color: rgb(74, 74, 201);
+}
+
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text{
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px 20px 10px;
+    text-align: left;
+    color: black;
+    font-size: 15px;
+}
+
+.btn{
+    background-color: white;
+    border-radius: 30px;
+    padding: 10px 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+ul{
+    padding-left: 500px;
+    padding-top: 40px;
+}
+
+.textbtn{
+    background-color: white;
+}
